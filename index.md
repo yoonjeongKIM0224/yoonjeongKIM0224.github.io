@@ -1,5 +1,5 @@
 ---
-layout: 어쩔티비
+layout: default
 ---
 
 **우하하**
