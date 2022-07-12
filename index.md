@@ -1,5 +1,5 @@
 ---
-layout: default02
+layout: default
 ---
 
 **우하하**
