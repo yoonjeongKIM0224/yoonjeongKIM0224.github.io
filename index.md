@@ -1,5 +1,5 @@
 ---
-layout: default_form
+layout: default
 ---
 
 **우하하**
