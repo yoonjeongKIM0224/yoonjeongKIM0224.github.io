@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkyj_pf"]=self["webpackChunkyj_pf"]||[]).push([[570],{1570:function(n,e,r){function t(n,e,r,t,u,s){return" 어바웃미 "}r.r(e),r.d(e,{default:function(){return c}});var u={name:"TheList",data(){return{}},props:{},components:{}},s=r(1241);const a=(0,s.A)(u,[["render",t]]);var c=a}}]);
+//# sourceMappingURL=570.d095854f.js.map
