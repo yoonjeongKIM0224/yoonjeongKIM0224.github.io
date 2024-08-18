@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkyj_pf"]=self["webpackChunkyj_pf"]||[]).push([[172],{6172:function(e,n,t){function r(e,n,t,r,u,c){return" TheHome "}t.r(n),t.d(n,{default:function(){return s}});var u={name:"TheHome",data(){return{}},props:{list:Object},components:{}},c=t(1241);const o=(0,c.A)(u,[["render",r]]);var s=o}}]);
-//# sourceMappingURL=172.aed9bbc5.js.map
